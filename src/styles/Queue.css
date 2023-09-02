@@ -1,0 +1,21 @@
+.queue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #fff; */
+    /* padding: 20px; */
+    /* border-radius: 10px; */
+    width: 100%;
+    height: 35%;
+    box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.queue > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: plum;
+    width: 95%;
+    padding: 10px;
+    border-radius: 50px;
+}
